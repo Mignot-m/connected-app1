@@ -4,7 +4,7 @@
 
 	<groupId>cddd5d6a-0c83-41e6-8320-5a38fed4d807</groupId>
 	<artifactId>connected-app</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.4</version>
 	<packaging>mule-application</packaging>
 
 	<name>connected-app</name>
