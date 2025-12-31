@@ -17,7 +17,8 @@ output application/json
 ---
 {
 	"status" :201,
-	"message":"application created"
+	"message":"application created",
+	"success":"ok"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
